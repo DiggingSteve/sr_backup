@@ -37,7 +37,7 @@
 
 .icon-gou:before { content: "\e63b"; }
 
-.icon-dianhua:before { content: "\e611"; }
+.icon-dianhua:before { content: "\e611";font-size: 35px; }
 
 .icon-huaxue:before { content: "\e600"; }
 
